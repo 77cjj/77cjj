@@ -2,4 +2,4 @@
 - 🌱 I’m currently study in zjut
 - 📫 My email：1149044114@qq.com
 - 👀 I’m interested in Frontend development and deeplearning
-- I'm familiar with `html` Css Js vue.js 
+- I'm familiar with `html` `Css` `Js` `vue.js` `webpack`  
